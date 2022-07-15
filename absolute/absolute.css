@@ -1,0 +1,36 @@
+.dummy{
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    background-color: coral;
+}
+.swimming{
+    position: relative;
+    border: 2px solid brown;
+    padding: 20px;
+}
+.swimming div{
+    border: 2px solid lawngreen;
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    margin: 2px;
+}
+.swimming img{
+    border: 1px dotted darkblue;
+}
+#boy{
+    position: absolute;
+    top: 0;
+}
+#ring{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    
+}
+#water{
+    position: absolute;
+    right: 0px;
+    top: 200px;
+}

@@ -1,0 +1,21 @@
+.dummy{
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    background-color: coral;
+}
+#boy{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+#ring{
+    position: relative;
+    top: -100px;
+    left: 200px;
+}
+#water{
+    position: relative;
+    top: 10px;
+    left: 300px;
+}
